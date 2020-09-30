@@ -1,4 +1,4 @@
-package ControlFlow.Switch;
+package Switch;
 
 /**
  * Switch

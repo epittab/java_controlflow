@@ -1,4 +1,4 @@
-package For;
+package com.ControlFlow.For;
 
 public class For {
     public static void main(String[] args) {

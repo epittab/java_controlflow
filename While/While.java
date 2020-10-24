@@ -1,4 +1,4 @@
-package While;
+package com.ControlFlow.While;
 
 public class While {
     public static void main(String[] args){
